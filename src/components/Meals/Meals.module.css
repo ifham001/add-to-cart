@@ -1,0 +1,8 @@
+.meals{
+    padding-top: 100px;
+    grid-template-columns: repeat(2, 60px);
+    display: grid;
+    grid-gap: 100px;
+    grid-template-columns: 1fr 1fr 1fr ;
+    
+}
